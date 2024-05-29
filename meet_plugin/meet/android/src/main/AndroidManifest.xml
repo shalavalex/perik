@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.gunschu.meet">
+    <application>
+        <activity android:name=".JitsiMeetPluginActivity" android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:launchMode="singleTask" android:resizeableActivity="true" android:supportsPictureInPicture="true" android:windowSoftInputMode="adjustResize">
+        </activity>
+    </application>
+</manifest>
